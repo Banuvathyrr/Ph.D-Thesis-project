@@ -48,7 +48,6 @@ How object stabilization is achieved while holding a handle that consists of uns
 - Force sensor for thumb was placed on the slider platform. A laser displ sensor was placed on top of the handle toward the thumb side  to measure the position of the slider platform. An acrylic block was attached on top in the anterior posterior direction to mount electromagnetic tracking sensor and bull’s eye.
 - Bull’s eye provide tilt feedback to the participant.
   
-
 <p align="center">
   <img src="https://github.com/Banuvathyrr/Ph.D-Thesis-project/assets/145739539/046fbae1-c376-420f-8f6e-4b0c10dcab64" width="300" height="400">
 </p>
@@ -76,6 +75,12 @@ How object stabilization is achieved while holding a handle that consists of uns
 4) Average tangential force
 5) Moment computation
 
+ <p align="center">
+  <img src="https://github.com/Banuvathyrr/Ph.D-Thesis-project/assets/145739539/b7e2e77b-723f-4448-bc4b-f0dda15408f5" width="500" height="400">
+</p>
+
+
+
 #### Synergy analysis
 - Finger force covariation was quantified to examine the existence of synergy. 
 - Synergy is defined as a set of elemental variables with a purpose of stabilizing a certain performance variable
@@ -86,7 +91,12 @@ How object stabilization is achieved while holding a handle that consists of uns
 - The two different conditions: fixed and free were considered to be the two different classes for the purpose of LDA. 
 - Both the classes were found to be linearly separable by a decision boundary that was constructed using LDA. 
 - The classifier was trained with 405 data points on thumb tangential force and moment due to normal forces of the individual fingers.
-- LDA was able to predict the test data at an accuracy of 98%, sensitivity of 100%, specificity and precision of 97%, false-positive rate of 2% for all four cases. 
+- LDA was able to predict the test data at an accuracy of 98%, sensitivity of 100%, specificity and precision of 97%, false-positive rate of 2% for all four cases.
+
+  <p align="center">
+  <img src="https://github.com/Banuvathyrr/Ph.D-Thesis-project/assets/145739539/0fd072d6-7a98-4b8b-b28e-1131d87f655d" width="500" height="400">
+</p>
+
 
 #### Correlation analysis
 - To find the relationship between the individual fingertip normal forces, correlation analysis was performed.
@@ -98,6 +108,9 @@ How object stabilization is achieved while holding a handle that consists of uns
 - As a result, if there exists any effect, the statistical test that we employ can detect the effect accurately.  
 - For statistical power computation, GPower software was used.
 
+  <p align="center">
+  <img src="https://github.com/Banuvathyrr/Ph.D-Thesis-project/assets/145739539/bdc5ac04-05c1-40f1-a6ef-dc3cbab9200d" width="500" height="700">
+</p>
 
 
 
