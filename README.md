@@ -53,4 +53,52 @@ How object stabilization is achieved while holding a handle that consists of uns
   <img src="https://github.com/Banuvathyrr/Ph.D-Thesis-project/assets/145739539/046fbae1-c376-420f-8f6e-4b0c10dcab64" width="300" height="400">
 </p>
 
+### Data Collection
+
+- Four experiments were conducted using the experimental apparatus.
+- Around 100 participants volunteered to participate in the experiments.
+- Each experiment had different task to be performed with the same experimental apparatus.
+- The experiment involved set of trials. Each trial lasted for few seconds.
+- Fingertip force data and position data was collected while performing each trial.
+- The data was collected using a customized LabVIEW (LabVIEW Version 12.0, National Instruments) program
+
+### Data Cleaning
+Checked for missing values and addessed it at the data collection stage itself.
+Checked for outliers
+
+### Data Analysis
+- Offline data analysis was performed using MATLAB (Version R2016b,MathWorks, USA).
+
+- Following key indicators were computed: 
+1) Normal force sharing %
+2) Safety Margin
+3) Average normal force
+4) Average tangential force
+5) Moment computation
+
+#### Synergy analysis
+Finger force covariation was quantified to examine the existence of synergy. 
+Synergy is defined as a set of elemental variables with a purpose of stabilizing a certain performance variable
+
+#### Linear discriminant analysis
+To examine how the change in tangential force produced by the thumb affected the moments produced by normal forces and hence, the static equilibrium of the object, we used a Linear Discriminant Analysis (LDA).
+A linear discriminant classifier was trained with the set of data points on thumb tangential force and the moments mentioned above for the two conditions: Fixed (platform fixed) and Free (platform movable).
+The two different conditions: fixed and free were considered to be the two different classes for the purpose of LDA. 
+Both the classes were found to be linearly separable by a decision boundary that was constructed using LDA. 
+The classifier was trained with 405 data points on thumb tangential force and moment due to normal forces of the individual fingers.
+LDA was able to predict the test data at an accuracy of 98%, sensitivity of 100%, specificity and precision of 97%, false-positive rate of 2% for all four cases. 
+
+#### Correlation analysis
+To find the relationship between the individual fingertip normal forces, correlation analysis was performed.
+
+### Statistical analysis
+For the current research, repeated measures design has been adopted in designing all four experiments. 
+According to this design method, multiple measures were taken for the same variable, and same set of participants under different conditions. 
+By having a greater number of trials (repeated measures) with limited number of participants, a better statistical power can be achieved. 
+As a result, if there exists any effect, the statistical test that we employ can detect the effect accurately.
+For statistical power computation, GPower software was used.
+
+
+
+
 
