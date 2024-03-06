@@ -47,6 +47,7 @@ How object stabilization is achieved while holding a handle that consists of uns
 - In the absence of mechanical constraint, slider could translate in the vertical direction over the railing like this.  Five 6 axis force/torque sensors were mounted to measure the fingertip forces of individual fingers and thumb.
 - Force sensor for thumb was placed on the slider platform. A laser displ sensor was placed on top of the handle toward the thumb side  to measure the position of the slider platform. An acrylic block was attached on top in the anterior posterior direction to mount electromagnetic tracking sensor and bull’s eye.
 - Bull’s eye provide tilt feedback to the participant.
+  
 
 <p align="center">
   <img src="https://github.com/Banuvathyrr/Ph.D-Thesis-project/assets/145739539/046fbae1-c376-420f-8f6e-4b0c10dcab64" width="300" height="400">
