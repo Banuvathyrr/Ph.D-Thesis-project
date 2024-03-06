@@ -36,6 +36,7 @@ During my Ph.D. in Neuromechanics, I conducted groundbreaking research focused o
   </tr>
  </table>
 
+
 ### Research Question
 How object stabilization is achieved while holding a handle that consists of unsteady thumb base?
 
@@ -59,7 +60,14 @@ How object stabilization is achieved while holding a handle that consists of uns
 - Each experiment had different task to be performed with the same experimental apparatus.
 - The experiment involved set of trials. Each trial lasted for few seconds.
 - Fingertip force data and position data was collected while performing each trial.
-- The data was collected using a customized LabVIEW (LabVIEW Version 12.0, National Instruments) program
+
+### Tools used
+- LabVIEW - The data was collected using a customized LabVIEW (LabVIEW Version 12.0, National Instruments) program
+- Matlab - Offline data analysis was performed using MATLAB (Version R2016b,MathWorks, USA).
+- R programming- Statistical analysis was performed using R
+- GPower - Statistical power and sample size computation
+- Inkscape - Diagram of the handle and the setup drawn using Inkscape
+- Originlab - Bar graphs, line plots, scatter plots etc were plotted using Origin
 
 ### Data Cleaning
 - Checked for missing values and addessed it at the data collection stage itself.
