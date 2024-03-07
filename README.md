@@ -120,6 +120,7 @@ How object stabilization is achieved while holding a handle that consists of uns
   <img src="https://github.com/Banuvathyrr/Ph.D-Thesis-project/assets/145739539/bdc5ac04-05c1-40f1-a6ef-dc3cbab9200d" width="500" height="700">
 </p>
 
+### Data storytelling
 
 
 
