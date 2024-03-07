@@ -95,12 +95,12 @@ How object stabilization is achieved while holding a handle that consists of uns
 - Although the little finger has a smaller structure than other fingers, the biomechanical and neural inter-relationship between the little finger and thumb served to act as a source for such a marked behavior of the little finger compared to the index finger.
 
 ### Tools used
-- LabVIEW - The data was collected using a customized LabVIEW (LabVIEW Version 12.0, National Instruments) program
-- Matlab - Offline data analysis was performed using MATLAB (Version R2016b,MathWorks, USA).
-- R programming- Statistical analysis was performed using R.
-- GPower - Statistical power and sample size computation using GPower software.
-- Inkscape - Diagram of the handle and the setup drawn using Inkscape.
-- Originlab - Bar graphs, line plots, scatter plots etc were plotted using Origin.
+- **LabVIEW** - The data was collected using a customized LabVIEW (LabVIEW Version 12.0, National Instruments) program
+- **Matlab** - Offline data analysis was performed using MATLAB (Version R2016b,MathWorks, USA).
+- **R programming**- Statistical analysis was performed using R.
+- **GPower** - Statistical power and sample size computation using GPower software.
+- **Inkscape** - Diagram of the handle and the setup drawn using Inkscape.
+- **Originlab** - Bar graphs, line plots, scatter plots etc were plotted using Origin.
 
 ### Data Cleaning
 - Checked for missing values and addessed it at the data collection stage itself.
@@ -110,11 +110,11 @@ How object stabilization is achieved while holding a handle that consists of uns
 - Offline data analysis was performed using MATLAB (Version R2016b,MathWorks, USA).
 
 - Following key indicators were computed: 
-1) Normal force sharing %
-2) Safety Margin
-3) Average normal force
-4) Average tangential force
-5) Moment computation
+  1) Normal force sharing %
+  2) Safety Margin
+  3) Average normal force
+  4) Average tangential force
+  5) Moment computation
 
  <p align="center">
   <img src="https://github.com/Banuvathyrr/Ph.D-Thesis-project/assets/145739539/b7e2e77b-723f-4448-bc4b-f0dda15408f5" width="500" height="400">
@@ -122,11 +122,11 @@ How object stabilization is achieved while holding a handle that consists of uns
 
 
 
-#### Synergy analysis
+*Synergy analysis*
 - Finger force covariation was quantified to examine the existence of synergy. 
 - Synergy is defined as a set of elemental variables with a purpose of stabilizing a certain performance variable
 
-#### Linear discriminant analysis
+*Linear discriminant analysis*
 - To examine how the change in tangential force produced by the thumb affected the moments produced by normal forces and hence, the static equilibrium of the object, we used a Linear Discriminant Analysis (LDA).
 - A linear discriminant classifier was trained with the set of data points on thumb tangential force and the moments mentioned above for the two conditions: Fixed (platform fixed) and Free (platform movable).
 - The two different conditions: fixed and free were considered to be the two different classes for the purpose of LDA. 
@@ -139,7 +139,7 @@ How object stabilization is achieved while holding a handle that consists of uns
 </p>
 
 
-#### Correlation analysis
+*Correlation analysis*
 - To find the relationship between the individual fingertip normal forces, correlation analysis was performed.
 
 ### Statistical analysis
