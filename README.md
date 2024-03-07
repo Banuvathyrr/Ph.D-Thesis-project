@@ -63,6 +63,36 @@ How object stabilization is achieved while holding a handle that consists of uns
 - Fingertip force data and position data was collected while performing each trial.
 
 ### Experiment description
+- A pattern tracing study was conducted to examine the contributions of peripheral fingers when the thumb platform was translated in the vertical direction while grasping the handle.
+
+<p align="center">
+  <img src="https://github.com/Banuvathyrr/Ph.D-Thesis-project/assets/145739539/07283171-d056-4e52-b925-31356fe6b58d" width="800" height="400">
+</p>
+
+- Based on a multi-finger study, when the thumb was held at the level above and below the center of the middle and ring finger sensor, the change in the percentage of peripheral finger grip forces was comparable
+<p align="center">
+  <img src="https://github.com/Banuvathyrr/Ph.D-Thesis-project/assets/145739539/d2b317af-a455-4526-b3b5-fb1344aecfbb" width="800" height="400">
+</p>
+
+- Therefore, it was expected that the change in grip force of peripheral fingers would be same when the thumb was shifted to the level above and below the middle and ring finger sensor center.
+- On the contrary, the change was significantly greater for the little finger than the index finger.
+- The little finger showed a drop in the tangential force, while the remaining fingers showed a rise in the tangential force when the thumb platform moved upward.
+- Similarly, when the thumb platform was moving downward, the little finger showed a rise in the load force while the remaining fingers showed a drop in the tangential force.
+
+<p align="center">
+  <img src="https://github.com/Banuvathyrr/Ph.D-Thesis-project/assets/145739539/6f7ff33b-94f1-48b3-9d58-e4148b437395" width="500" height="400">
+</p>
+
+
+- The result shows that the little finger behaves completely different from the other fingers during the thumb translation.
+- Thus, fingertip force data of the individual fingers conveys a biomechanical relationship between the thumb and little finger.
+
+<p align="center">
+  <img src="https://github.com/Banuvathyrr/Ph.D-Thesis-project/assets/145739539/63e07d4f-2a5d-41cc-a4d5-ed466f42ee07" width="700" height="400">
+</p>
+
+
+- Although the little finger has a smaller structure than other fingers, the biomechanical and neural inter-relationship between the little finger and thumb served to act as a source for such a marked behavior of the little finger compared to the index finger.
 
 ### Tools used
 - LabVIEW - The data was collected using a customized LabVIEW (LabVIEW Version 12.0, National Instruments) program
@@ -124,6 +154,9 @@ How object stabilization is achieved while holding a handle that consists of uns
 </p>
 
 ### Insights
+- The contribution of the ulnar fingers for establishing equilibrium was examined when the thumb was placed on an unsteady platform.
+- Generally from literature, it was a common question to understand what strategy Central Nervous System employs in achieving the goal of any task. However, In this particular research, inaddition to the strategy employed , at wat situation particular strategy was followed by cns was investigatedd. 
+![image](https://github.com/Banuvathyrr/Ph.D-Thesis-project/assets/145739539/ed90c101-2423-488e-b31a-12f101bd2b68)
 
 
 
