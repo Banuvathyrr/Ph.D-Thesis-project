@@ -151,9 +151,52 @@ How object stabilization is achieved while holding a handle that consists of uns
 
   <p align="center">
   <img src="https://github.com/Banuvathyrr/Ph.D-Thesis-project/assets/145739539/bdc5ac04-05c1-40f1-a6ef-dc3cbab9200d" width="500" height="700">
+</p>  
+
+- Two way repeated measures ANOVA was performed to investigate the statistical significance between the variables (fingertip forces) using R programming.  
+- Two One Sided T-test approach (TOST) was performed to examine the statistical equivalence between the variables.  
+
+```
+// To find equivalence bounds for a 15 participants and statistical power of 95%
+powerTOSTpaired(alpha=0.05, N=15, statistical_power=0.95)
+The equivalence bounds to achieve 95 % power with N = 15 are -0.93 and 0.93.  
+[1] -0.9307599  0.9307599
+```
+```
+TOSTpaired(n=15,m1=2.69, m2=2.86,sd1=0.87,sd2=0.74,r12=-0.07,low_eqbound_dz=-0.93,high_eqbound_dz=0.93)
+TOST results:
+t-value lower bound: 3.04 	p-value lower bound: 0.004
+t-value upper bound: -4.16 	p-value upper bound: 0.0005
+degrees of freedom : 14
+
+Equivalence bounds (Cohen's dz):
+low eqbound: -0.93 
+high eqbound: 0.93
+
+Equivalence bounds (raw scores):
+low eqbound: -1.0983 
+high eqbound: 1.0983
+
+TOST confidence interval:
+lower bound 90% CI: -0.707
+upper bound 90% CI:  0.367
+
+NHST confidence interval:
+lower bound 95% CI: -0.824
+upper bound 95% CI:  0.484
+
+Equivalence Test Result:
+The equivalence test was significant, t(14) = 3.044, p = 0.00437, given equivalence bounds of -1.098 and 1.098 (on a raw scale) and an alpha of 0.05.
+Null Hypothesis Test Result:
+The null hypothesis test was non-significant, t(14) = -0.558, p = 0.586, given an alpha of 0.05.
+Based on the equivalence test and the null-hypothesis test combined, we can conclude that the observed effect is statistically not different from zero and statistically equivalent to zero.
+```
+  <p align="center">
+  <img src="https://github.com/Banuvathyrr/Ph.D-Thesis-project/assets/145739539/8920e06a-a8ba-46fd-be02-65094bff01d1" width="450" height="400">
 </p>
-- Two way repeated measures ANOVA was performed to investigate the statistical significance between the variables (fingertip forces) using R programming  
-- Two One Sided T-test approach (TOST) was performed to examine the statistical equivalence between the variables
+
+
+
 
 
 ### Insights
