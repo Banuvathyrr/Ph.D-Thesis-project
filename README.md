@@ -155,8 +155,9 @@ How object stabilization is achieved while holding a handle that consists of uns
 
 ### Insights
 - The contribution of the ulnar fingers for establishing equilibrium was examined when the thumb was placed on an unsteady platform.
-- Generally from literature, it was a common question to understand what strategy Central Nervous System employs in achieving the goal of any task. However, In this particular research, inaddition to the strategy employed , at wat situation particular strategy was followed by cns was investigatedd. 
-![image](https://github.com/Banuvathyrr/Ph.D-Thesis-project/assets/145739539/ed90c101-2423-488e-b31a-12f101bd2b68)
+- In general, it was a common question to understand what strategy central nervous system employs in achieving the goal of any grasping task. However, in this particular research, inaddition to the strategy employed , at what situation particular strategy was followed by central nervous system was investigatedd.
+- The distinct behavior of the little finger compared to the other finger forces perhaps suggests a biomechanical relationship between thumb and little finger.
+
 
 
 
