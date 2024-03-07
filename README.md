@@ -152,6 +152,9 @@ How object stabilization is achieved while holding a handle that consists of uns
   <p align="center">
   <img src="https://github.com/Banuvathyrr/Ph.D-Thesis-project/assets/145739539/bdc5ac04-05c1-40f1-a6ef-dc3cbab9200d" width="500" height="700">
 </p>
+- Two way repeated measures ANOVA was performed to investigate the statistical significance between the variables (fingertip forces) using R programming  
+- Two One Sided T-test approach (TOST) was performed to examine the statistical equivalence between the variables
+
 
 ### Insights
 - The contribution of the ulnar fingers for establishing equilibrium was examined when the thumb was placed on an unsteady platform.
