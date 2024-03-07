@@ -48,9 +48,10 @@ How object stabilization is achieved while holding a handle that consists of uns
 - In the absence of mechanical constraint, slider could translate in the vertical direction over the railing like this.  Five 6 axis force/torque sensors were mounted to measure the fingertip forces of individual fingers and thumb.
 - Force sensor for thumb was placed on the slider platform. A laser displ sensor was placed on top of the handle toward the thumb side  to measure the position of the slider platform. An acrylic block was attached on top in the anterior posterior direction to mount electromagnetic tracking sensor and bull’s eye.
 - Bull’s eye provide tilt feedback to the participant.
-  
+
+
 <p align="center">
-  <img src="https://github.com/Banuvathyrr/Ph.D-Thesis-project/assets/145739539/046fbae1-c376-420f-8f6e-4b0c10dcab64" width="300" height="400">
+  <img src="https://github.com/Banuvathyrr/Ph.D-Thesis-project/assets/145739539/6a898dc3-a4bc-4d19-91df-d4b4f63c01f8" width="400" height="400">
 </p>
 
 ### Data Collection
@@ -60,6 +61,8 @@ How object stabilization is achieved while holding a handle that consists of uns
 - Each experiment had different task to be performed with the same experimental apparatus.
 - The experiment involved set of trials. Each trial lasted for few seconds.
 - Fingertip force data and position data was collected while performing each trial.
+
+### Experiment description
 
 ### Tools used
 - LabVIEW - The data was collected using a customized LabVIEW (LabVIEW Version 12.0, National Instruments) program
@@ -120,7 +123,7 @@ How object stabilization is achieved while holding a handle that consists of uns
   <img src="https://github.com/Banuvathyrr/Ph.D-Thesis-project/assets/145739539/bdc5ac04-05c1-40f1-a6ef-dc3cbab9200d" width="500" height="700">
 </p>
 
-### Data storytelling
+### Insights
 
 
 
