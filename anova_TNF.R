@@ -17,7 +17,7 @@ Y<- lm(CT_bind ~ 1)
 library(car)
 analysis<-Anova(Y,idata=CT_anova_idata,idesign = ~con)
 analysis_t <- aov(v ~ con, CT_t)
-analysis2<-aov(v ~con   + (1 | sub), CT_t)
+#analysis2<-aov(v ~con   + (1 | sub), CT_t)
 
 
 #use summary(object) to visualize the results of the repeated measures ANOVA
@@ -29,7 +29,7 @@ pairwise.t.test(CT_t$v,CT_t$con)
 
 TukeyHSD(analysis2)
 
-TukeyHSD(analysis_t)
+#TukeyHSD(analysis_t)
 
 cat("\n")
 cat("Mean values")
