@@ -201,7 +201,7 @@ Based on the equivalence test and the null-hypothesis test combined, we can conc
 
 ### Insights
 - The contribution of the ulnar fingers for establishing equilibrium was examined when the thumb was placed on an unsteady platform.
-- In general, it was a common question to understand what strategy central nervous system employs in achieving the goal of any grasping task. However, in this particular research, inaddition to the strategy employed , at what situation particular strategy was followed by central nervous system was investigatedd.
+- In general, it was a common question to understand what strategy central nervous system employs in achieving the goal of any grasping task. However, in this particular research, inaddition to the strategy employed , at what situation particular strategy was followed by central nervous system was investigated.
 - The distinct behavior of the little finger compared to the other finger forces perhaps suggests a biomechanical relationship between thumb and little finger.
 
 
